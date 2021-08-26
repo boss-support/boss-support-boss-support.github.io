@@ -12,9 +12,9 @@
   * [定制导航栏](云市场/custom-navbar.md)
   * [封面](云市场/cover.md)
 
-* 开发者中心
-  * [开发者中心平台简介](开发者中心/README.md)
+* [开发者中心](开发者中心)
+<!--   * [开发者中心平台简介](开发者中心/README.md)
   * [加入我们](开发者中心/加入我们.md)
   * [使用插件](开发者中心/plugins.md)
   * [Markdown 配置](开发者中心/markdown.md)
-  * [代码高亮](开发者中心/language-highlight.md)
+  * [代码高亮](开发者中心/language-highlight.md) -->
