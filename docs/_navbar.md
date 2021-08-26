@@ -14,7 +14,7 @@
 
 * 开发者中心
   * [开发者中心平台简介](开发者中心/开发者中心平台简介.md)
-  * [主题](开发者中心/themes.md)
+  * [加入我们](开发者中心//加入我们.md)
   * [使用插件](开发者中心/plugins.md)
   * [Markdown 配置](开发者中心/markdown.md)
   * [代码高亮](开发者中心/language-highlight.md)
