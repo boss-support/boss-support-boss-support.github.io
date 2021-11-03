@@ -25,7 +25,7 @@
 ## 用户账号指南
 ### 用户注册
  1.在浏览器的地址栏中输入富集云商城访问地址：https://www.fii-fmc.com 打开富集云商城，点击页面右上角的【免费注册】按钮，如下图所示：  
-![1](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/cba67a9c63b5ec857b7ec9daacbe4c38&showdoc=.jpg "1")
+![1](../图片/富集云商城用户手册/用户/5f211b7c3bd88.png)
  2.进入注册页面，按照输入框中提示输入正确信息，说明如下：  
 （1）输入有效的手机号码，点击获取验证码（如果手机号码输入错误，手机将收不到验证码短信）；  
 （2）收到验证码短信后输入正确的验证码，如果输入错误，需要重新输入或一分钟之后再次获取验证码；  
@@ -319,25 +319,25 @@ a，需要查看完整是Scretkey【 ![72](http://10.129.5.20:4999/server/index.
 ### 应用商城服务商申请
 **应用商城服务商申请步骤：**  
 1.用户登录富集云企业管理员账号，点击商城首页导航栏【应用商城】，如下图所示：  
-![1](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/cc65953a578562b17cbc94651b049a65&showdoc=.jpg "1")
+![1](../图片/富集云商城用户手册/服务商/1.png)
 2.进入应用商城页面，点击右上角【服务商入驻】，如下图所示：  
-![2](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/76896388bb957c764efa245edd47ee8a&showdoc=.jpg "2")
+![2](../图片/富集云商城用户手册/服务商/2.png)
 3.进入应用商城入驻介绍页面，再点击【立即加入】按钮，如下图所示：  
-![3](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/c136603ea4bdd08452f085138a44ae84&showdoc=.jpg "3")
+![3](../图片/富集云商城用户手册/服务商/3.png)
 4.进入服务商认证页面，输入认证信息，其中企业全称、客服邮箱及客服电话已通过用户企业认证时自动录入无需填写，用户需输入企业银行账号、银行开户名、银行名称、银行所在地、开户支行名称、上传银行账号证明，查阅富集云商城规范，确认无误后，点击【提交认证】，如下图所示:  
-![4](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/60ead523cc8e640363dc3087596ae8d4&showdoc=.jpg "4")
+![4](../图片/富集云商城用户手册/服务商/4.png)
 5.跳转至提交成功页面，等待管理员审核，如下图所示：  
-![5](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/d205bc0f8e01f7fd3ba00ef30590072d&showdoc=.jpg "5")
+![5](../图片/富集云商城用户手册/服务商/5.png)
 6.平台管理员审核通过之后，用户进入应用商城页面，可看到右上角由原来的服务商入驻变为卖家中心，可点击【卖家中心】如下图所示：  
-![6](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/bf80aae2a57dbec31165b3b4873aff71&showdoc=.jpg "6")
+![6](../图片/富集云商城用户手册/服务商/6.png)
 7.进入服务商管理页面，点击【我的信息】，可看到注册的公司信息，如下图所示：  
-![7](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e98a231491d62a1ea809d4e47e3806bd&showdoc=.jpg "7")
+![7](../图片/富集云商城用户手册/服务商/7.png)
 修改服务商信息  
 用户可在我的信息页面，修改客服电话、客服邮箱信息  
-1.用户可点击需要修改的信息后面的【![8](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/6a531bb8a4bd5d2b9b3c35d22723b671&showdoc=.jpg "8") 】图标，如下图所示：  
-![9](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/95e59c769fa9427c9af3f9282f9d6d06&showdoc=.jpg "9")
+1.用户可点击需要修改的信息后面的【![8](../图片/富集云商城用户手册/服务商/8.png) 】图标，如下图所示：  
+![9](../图片/富集云商城用户手册/服务商/9.png)
 2.企业简称、客服电话、客服邮箱直接编辑修改，点击【保存】即可。如下图所示：  
-![10](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/91309392c4b678c9ef2c571f90b3f161&showdoc=.jpg "10")
+![10](../图片/富集云商城用户手册/服务商/10.png)
 
 ## 产品管理
 ### 新增产品
