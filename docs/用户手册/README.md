@@ -176,124 +176,124 @@
 **邀请用户加入企业**  
 只有企业管理员有权限可以通过手机号邀请用户加入自己的企业。  
 1.企业管理员在企业信息页面，点击【通讯录】，页面展示所有的企业成员，点击【邀请用户】按钮，输入需要邀请的用户手机号，也可以输入多个邮箱，每个邮箱之间换行，点击【发送邀请】，如下图所示：  
-![54](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/97403d32d231a6f4513d1ed749ea69e3&showdoc=.jpg "54")
+![54](../图片/富集云商城用户手册/用户/54.png)
 2.被邀请人点击收到的短信链接，进入富集云商城，若有账号，点击页面右上角的【登录】，页面跳转到登录页面， 被邀请人可通过手机号或账号登录到富集云商城，即可加入该企业。若被邀请人没有富集云商城账号，需按照用户注册步骤注册用户账号，注册完登录即可加入该企业，如下图所示：  
-![55](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/95818852aa3c1864d36a27bfc6849b93&showdoc=.jpg "55")
+![55](../图片/富集云商城用户手册/用户/55.png)
 3.用户登录富集云商城后在用户中心页面，点击【企业信息】，再点击【填写邀请码】，在企业邀请对话框中输入富集云商城企业管理员下发加入码，点击确认【确认】，如下图所示：  
-![56](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/6e1c50577fb02a9781961c0c61e43b16&showdoc=.jpg "56")
+![56](../图片/富集云商城用户手册/用户/56.png)
 4.提示已成功加入企业，被邀请用户可在企业信息页面看到该企业的信息，如下图所示：  
-![57](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8e90272f26ae1dfe0bd407faa801b6ed&showdoc=.jpg "57")
+![57](../图片/富集云商城用户手册/用户/57.png)
 5.企业管理员在通讯录页面可看到已加入自己企业的成员信息，如下图所示：  
-![58](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/7dbd3d823dd2e175a3e35775da363b05&showdoc=.jpg "58")
+![58](../图片/富集云商城用户手册/用户/58.png)
 **删除企业用户**  
 企业管理员可删除企业用户，企业其他角色成员没有该权限。  
 1.企业管理员点击【用户中心】，点击【企业信息】，进入我的企业页面。  
-![59](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/72bea801a84702a37f4f3db19594f9ee&showdoc=.jpg "59")
+![59](../图片/富集云商城用户手册/用户/59.png)
 2.点击【通讯录】，点击操作列的【删除】，如下图所示：  
-![60](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/32af1e3dbe29cbfc777f0835457e7c70&showdoc=.jpg "60")
+![60](../图片/富集云商城用户手册/用户/60.png)
 3.点击【确定】，即可删除用户，如下图所示：  
-![61](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/faf5d90a678291322d898099591ce003&showdoc=.jpg "61")
+![61](../图片/富集云商城用户手册/用户/61.png)
 
 **设置用户角色**  
 企业管理员可把一个企业普通成员设置成富集云应用、协同、B2B商城服务商或商城产品管理员。  
 1.企业管理员进入企业信息页面，点击通讯录，点击操作列的【角色】，如下图所示：  
-![62](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/80e4ade0edb54d5225561151c296f654&showdoc=.jpg "62")
+![62](../图片/富集云商城用户手册/用户/62.png)
 2.弹出角色设置对话框，勾选需要角色权限。点击【确定】，完成用户角色的授权，如下图所示：  
-![63](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/5086f5251dd4f4504f0feed2bf6b5c06&showdoc=.jpg "63")
+![63](../图片/富集云商城用户手册/用户/63.png)
 
 #### 收货地址
 **设置收货地址步骤:**  
 1.用户进入我的企业页面，点击【收货地址】，如下图所示：  
-![64](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/eae94a48b9d56f7a08b9def57feafc4f&showdoc=.jpg "64")
+![64](../图片/富集云商城用户手册/用户/64.png)
 2.进入添加收货地址页面，用户点击【添加收货地址】，如下图所示：  
-![65](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/1f0c3355093ff1595bdee19c6abcbb9f&showdoc=.jpg "65")
+![65](../图片/富集云商城用户手册/用户/65.png)
 3.在弹出的添加收货地址对话框中，填写收货人、手机号码、选择所在区域、详细地址等信息，可勾选设置为默认地址或不勾选，点击【确定】如下图所示：  
-![66](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/297da1e68cdadf28c60b5e097bd65f04&showdoc=.jpg "66")
+![66](../图片/富集云商城用户手册/用户/66.png)
 4.添加完收货地址后，用户可返回收货地址页面则可看到添加的收货信息，用户还可点击收货地址下方的“编辑及删除”更改或删除收货地址，如下图所示：  
-![67](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/4fc92f67c6548d32192b4e867bfc9ce0&showdoc=.jpg "67")
+![67](../图片/富集云商城用户手册/用户/67.png)
 
 #### 我的平台
 **企业管理员可在我的平台中添加第三方应用**  
 1.企业管理员在企业信息页面，点击【我的平台】，如下图所示：  
-![68](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/699d66ce106ff80fc9a1f52c26a0992c&showdoc=.jpg "68")
+![68](../图片/富集云商城用户手册/用户/68.png)
 2.点击【新增平台】，如下图所示：  
-![69](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/ccf6235748cf3447199cb2fe3613f46c&showdoc=.jpg "69")
+![69](../图片/富集云商城用户手册/用户/69.png)
 3.输入需要添加的第三方应用的平台名称及回调地址，点击【保存】，如下图所示：  
-![70](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/b9663b9aa46ed2d031c4e3ee5f8453c4&showdoc=.jpg "70")
+![70](../图片/富集云商城用户手册/用户/70.png)
 4. 第三方应用添加成功，即可看到系统自动生成的APPid及Scretkey信息，如下图所示：  
-![71](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8e00c08ec5770d23393ba5f81fbb0e31&showdoc=.jpg "71")
-a，需要查看完整是Scretkey【 ![72](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/2f7ba56f3f54a8cb0c9f644996ebc58d&showdoc=.jpg "72")】图标，根据系统提示输入登录密码验证，即可查看如下图所示：  
-![73](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/d4043e7fce6b8f146e8fad757873d311&showdoc=.jpg "73")
+![71](../图片/富集云商城用户手册/用户/71.png)
+a，需要查看完整是Scretkey【 ![72](../图片/富集云商城用户手册/用户/72.png)】图标，根据系统提示输入登录密码验证，即可查看如下图所示：  
+![73](../图片/富集云商城用户手册/用户/73.png)
 
 #### 交易密码
 **用户重置交易密码步骤:**  
 **在富集云商城中只有企业管理员才可以重置交易密码，其他企业角色成员没有该权限。**  
 1.企业管理员在企业信息页面，点击【交易密码】，验证方式可选择手机验证或邮箱验证，滑块验证、再点击【获取验证码】，输入富集云商城下发到用户选择的手机或邮箱验证的验证码，再点击【下一步】，如下图所示：  
-![74](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/0a8b5de6e24bdbf8eaa2bfd803173a39&showdoc=.jpg "74")
+![74](../图片/富集云商城用户手册/用户/74.png)
 2.设置新的交易密码，点击【更改】，如下图所示：  
-![75](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/80807c14226d5c1a4c8f1ce911e0495b&showdoc=.jpg "75")
+![75](../图片/富集云商城用户手册/用户/75.png)
 3.跳入设置密码成功页面，如下图所示:  
-![76](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/c18ee25e1ac66461f69aa21736145a0f&showdoc=.jpg "76")
+![76](../图片/富集云商城用户手册/用户/76.png)
 
 ## 费用中心
 ### 订单管理
 1.登录平台，点击用户头像下方的【费用中心】，如下图所示：  
-![77](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8cdbd574ce244ad9911670a529c0df3f&showdoc=.jpg "77")
+![77](../图片/富集云商城用户手册/用户/77.png)
 2.进入订单管理页面，显示当前登录账户的所有历史订单，如下图所示：  
-![78](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/69c8940a2bdb33e168cc617fb770b38d&showdoc=.jpg "78")
+![78](../图片/富集云商城用户手册/用户/78.png)
 **搜索订单**  
 1.页面默认显示所有的订单，可选择订单状态、订单类型，时间范围、商品名称或订单号，点击【搜索】按钮，列表展示符合搜索条件的订单，如下图所示：  
-![79](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/4503ad442009ef312b967fecabbf0210&showdoc=.jpg "79")
+![79](../图片/富集云商城用户手册/用户/79.png)
 #### 上传凭证  
 1.在订单管理中选择需要上传凭证的订单， 点击操作列的【上传凭证】，如下图所示：  
-![80](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/4119b5979d948cfb8951630d8b54f92b&showdoc=.jpg "80")
+![80](../图片/富集云商城用户手册/用户/80.png)
 1.弹出上传凭证对话框，输入汇款户名、汇款银行、汇款账号、汇款金额，选择汇款时间，上传凭证，如下图所示：  
-![81](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/d42286350739da4e65f608374b59f1f8&showdoc=.jpg "81")
+![81](../图片/富集云商城用户手册/用户/81.png)
 2.点击【保存】，上传凭证成功。平台管理员确认收款之后，该订单状态变成待交付，等待服务商交付，如下图所示：  
-![82](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e95cd3f288219742f6c06fbb9d3e7dfa&showdoc=.jpg "82")
+![82](../图片/富集云商城用户手册/用户/82.png)
 
 #### 去验收：
 1.服务商交付后，该订单状态变成去验收，用户点击【去验收】，滑动验证、再点击【确认】，如下图所示：  
-![83](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/23504ddb1055120271aaa74e38ef34ba&showdoc=.jpg "83")
+![83](../图片/富集云商城用户手册/用户/83.png)
 2.该订单已验收完成，如下图所示：  
-![84](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/728689d4740a6d4e89433568ec80df41&showdoc=.jpg "84")
+![84](../图片/富集云商城用户手册/用户/84.png)
 
 #### 取消订单
 1.选择一个待付款订单，在操作列点击【取消】。如下图所示：  
-![85](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/dd6c2d9f1a4eea6432f912209153c3d1&showdoc=.jpg "85")
+![85](../图片/富集云商城用户手册/用户/85.png)
 2.弹出取消订单对话框，点击【确认】，如下图所示：  
-![86](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/7f6e0208befa42f14773d99e3e41f603&showdoc=.jpg "86")
+![86](../图片/富集云商城用户手册/用户/86.png)
 3.该订单状态变成已取消，如下图所示：  
-![87](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/0bbb288e81f51a3f7307585382dbd24e&showdoc=.jpg "87")
+![87](../图片/富集云商城用户手册/用户/87.png)
 
 #### 订单详情
 1.所有订单均有详情，选择一个订单，在操作列点击【详情】，如下图所示：  
-![88](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/0b9e76f4ea30ede6f983744341f22471&showdoc=.jpg "88")
+![88](../图片/富集云商城用户手册/用户/88.png)
 2.跳转到订单详情页面，展示该订单的详细信息，如下图所示：  
-![89](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/fe637b791e9c971e03db8c532a92c0e5&showdoc=.jpg "89")
+![89](../图片/富集云商城用户手册/用户/89.png)
 
 ## 购买产品
 ### 购买应用
 **只有企业管理员及企业成员中的商城服务商才能购买产品，且企业管理员完成了个人认证和企业认证（创建企业），或企业认证审核中也可以购买产品。未创建企业的普通用户或加入企业的用户购买产品时提示“您不是企业管理员”；若企业管理员没有个人认证，购买产品，提示“请完成个人认证”；若企业管理员没有企业认证，提示“请完成企业认证”。
 免费试用产品步骤：**  
 1.用户登录富集云商城，点击导航栏【应用商城】，如下图所示：  
-![90](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/7057bb26de0aa91c6b4ba027bc4b3a83&showdoc=.jpg "90")
+![90](../图片/富集云商城用户手册/用户/90.png)
 2.进入应用商城，可选择产品分类搜索要购买的产品，也可以在搜索框内输入产品名称或关键词进行搜索，如下图所示：  
-![91](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/316b71f346b7659b271ccfc2c8ddca22&showdoc=.jpg "91")
+![91](../图片/富集云商城用户手册/用户/91.png)
 3.进入产品展示页面，可选择产品分类搜索要购买的产品，也可以在搜索框内输入关键词进行搜索，如下图所示  
-![92](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/326091ca135402d7784db5ef8d5db327&showdoc=.jpg "92")
+![92](../图片/富集云商城用户手册/用户/92.png)
 4.点击要购买的产品，将进入产品详情页面，如下图所示：  
-![93](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e46a99614cf06da570f912cd38feb7a3&showdoc=.jpg "93")
+![93](../图片/富集云商城用户手册/用户/93.png)
 5.选择要购买规格与数量/单位，勾选我已阅读并同意《富集云云市场管理协议》，再点击【立即购买】如下图所示：  
-![94](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/58be3918fd6599db4cf0b014f0e25caf&showdoc=.jpg "94")
+![94](../图片/富集云商城用户手册/用户/94.png)
 6.跳转到订单确认页面，用户可点击【提交订单】，如下图所示：  
-![95](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/de402685fa1b2a371e35c68413eb743b&showdoc=.jpg "95")
+![95](../图片/富集云商城用户手册/用户/95.png)
 7.进入支付页面，目前富集云商城仅支持线下汇款，点击【去汇款】，如下图所示：  
-![96](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/0fc8fc528e64691923ba29de948b9076&showdoc=.jpg "96")
+![96](../图片/富集云商城用户手册/用户/96.png)
 8，则需按系统支付页面提示线下汇款到平台指定账号，点击【我知道了】如下图所示：  
-![97](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/3db4df6518e98d2db446efa102fb85b1&showdoc=.jpg "97")
+![97](../图片/富集云商城用户手册/用户/97.png)
 9，进入到我的订单页面，可看到购买订单信息，点击【上传汇款凭证】线下汇款到平台指定账号（用户可参考：费用中心-订单管理-上传汇款凭证的步骤完成线下汇款操作），即可完成产品支付，如下图所示：  
-![98](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/1e2eb13c06e1f870f235268009aee237&showdoc=.jpg "98")
+![98](../图片/富集云商城用户手册/用户/98.png)
 
 # 富集云服务商介绍
 **1.富集云商城分别有应用商城服务商、B2B商城服务商，协同制造商城服务商，3个商城，富集云商城中只有企业管理员可以申请服务商认证，且可以同时认证成为多个服务商。其他企业角色用户没有该权限。
