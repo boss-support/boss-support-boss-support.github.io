@@ -25,94 +25,94 @@
 ## 用户账号指南
 ### 用户注册
  1.在浏览器的地址栏中输入富集云商城访问地址：https://www.fii-fmc.com 打开富集云商城，点击页面右上角的【免费注册】按钮，如下图所示：  
-![1](../图片/富集云商城用户手册/用户/5f211b7c3bd88.png)
+![1](../图片/富集云商城用户手册/用户/1.png)
  2.进入注册页面，按照输入框中提示输入正确信息，说明如下：  
 （1）输入有效的手机号码，点击获取验证码（如果手机号码输入错误，手机将收不到验证码短信）；  
 （2）收到验证码短信后输入正确的验证码，如果输入错误，需要重新输入或一分钟之后再次获取验证码；  
 （3）设置登录密码并再次输入登录密码进行确认；  
 （4）查看《富集云服务条款》和《隐私政策声明》。  
-![2](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/1855ffdda3a9f755b2c043903efc7bb5&showdoc=.jpg "2")
+![2](../图片/富集云商城用户手册/用户/2.png)
  3.此时注册完成，页面会出现【返回首页】及【立即认证】两个跳转入口：  
-![3](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/9f7c861871f148e474701faded8f8446&showdoc=.jpg "3")
+![3](../图片/富集云商城用户手册/用户/3.png)
 （1）注册用户可以通过点击【立即认证】进入用户中心完善个人信息及个人实名认证，如下图所示。  
-![4](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/6335d280d3df4f716f3f72040c933e80&showdoc=.jpg "4")
+![4](../图片/富集云商城用户手册/用户/4.png)
 （2）注册用户可以通过点击【返回首页】即可成功登录富集云商城。如下图所示：  
-![5](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/2954a11fe7922b216ef3a63575b86163&showdoc=.jpg "5")
+![5](../图片/富集云商城用户手册/用户/5.png)
 
 ### 用户登录
 1.注册用户可以通过点击注册成功提示页面右上角【返回首页】即可成功登录富集云商城。  
 2.也可以在浏览器的地址栏中输入富集云商城访问地址：https://www.fii-fmc.com 打开富集云商城。点击页面右侧按钮【登录】，如下图所示：
-![6](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8a62fe5bfe2a7a03db06102f3cbf61dc&showdoc=.jpg "6")
+![6](../图片/富集云商城用户手册/用户/6.png)
 3.页面跳转到登录页面，富集云商城目前支持账号、手机号2种登录方式。
 （1）账号登录：输入已经在富集云商城上注册的手机号对应的用户名（手机或邮箱）、密码和滑动验证，点击登录即可登录到富集云商城，如下图所示：
-![7](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e04a47d119ba17f8e537f0fb6e5af83c&showdoc=.jpg "7")
+![7](../图片/富集云商城用户手册/用户/7.png)
 （2）手机号登录：输入已经在富集云商城上注册的手机号，获取验证码正确填入后，点击登录即可登录到富集云商城，如下图所示：
-![8](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/60b9a3454f67949eb897d7b8dbfca75c&showdoc=.jpg "8")
+![8](../图片/富集云商城用户手册/用户/8.png)
 4.登录后直接进入首页，如下图所示：
-![9](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/3730e063669fa30ee85db7b61b11a162&showdoc=.jpg "9")
+![9](../图片/富集云商城用户手册/用户/9.png)
 
 ### 找回密码
 1.用户可在账号登录页面，点击【忘记密码】，进行找回密码的操作，如下图所示：  
-![10](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/7c6b1b56dc113c446fed9612130854a7&showdoc=.jpg "10")
+![10](../图片/富集云商城用户手册/用户/10.png)
 2.跳转到找回密码页面，用户输入注册手机号码或邮箱，判断是否为平台的真实用户，滑动验证，点击【获取验证码】，平台会下发验证码到手机号码或邮箱。如下图所示：  
-![11](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/88bcf5f6c442f3a65cc6c597f500b88e&showdoc=.jpg "11")
+![11](../图片/富集云商城用户手册/用户/11.png)
 3.进入重置密码页面，输入新密码和确认密码，点击【下一步】，如下图所示：  
-![12](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/6fac1319dc59ed21c54b082626f2e654&showdoc=.jpg "12")
+![12](../图片/富集云商城用户手册/用户/12.png)
 4.密码修改成功，流程结束。跳转到修改成功页面，如下图所示：  
-![13](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/f89c638b65416ef86ac00e2240372d49&showdoc=.jpg "13")
+![13](../图片/富集云商城用户手册/用户/13.png)
 
 ## 用户中心
 ### 个人信息
 1.登录后，点击页面右上角用户头像下面的【用户中心】按钮，如下图所示：  
-![14](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/0bc70b61776e905f7c5f961d8e0d48b4&showdoc=.jpg "14")
+![14](../图片/富集云商城用户手册/用户/14.png)
 2.用户信息页面，显示用户的个人资料信息：用户名、姓名、手机号码、邮箱、登录密码、安全等级等，如下图所示：  
-![15](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/36ba757cc9528f5bd0ae5c8483cad9ab&showdoc=.jpg "15")
+![15](../图片/富集云商城用户手册/用户/15.png)
 
 ### 用户实名认证
 **用户实名认证之前，必须先修改用户名并且用户名只能修改一次  
 修改用户名操作流程：**  
 1.在用户信息页面，点击用户名后面的【修改】，如下图所示：  
-![16](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e13891caf3c5dca25237345168df355c&showdoc=.jpg "16")
+![16](../图片/富集云商城用户手册/用户/16.png)
 2.页面出现用户名修改框，按命名要求修改用户名（注意用户名只能更改一次），如下图所示：  
-![17](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/596c9978809bd079ae3ec58e467b25ee&showdoc=.jpg "17")
+![17](../图片/富集云商城用户手册/用户/17.png)
 3.输入用户名后，再点击【确认】即会跳转回用户信息页面，可看到用户修改后的用户名，如下图所示：    
-![18](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/08f527a9a169403098c0dc2ba56c43eb&showdoc=.jpg "18")
+![18](../图片/富集云商城用户手册/用户/18.png)
 
 **实名认证流程：**  
 1.在用户信息页面点击姓名后面的【个人认证】，进入个人认证页面，如下图所示：  
-![19](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e51399f37c58e09bfa4394227bd6a46e&showdoc=.jpg "19")
+![19](../图片/富集云商城用户手册/用户/19.png)
 2.用户在个人认证页面输入真实姓名，身份证号码，证件选择、上传身份证人像面和国徽面、手持身份证人像照片，点击【提交认证】，如下图所示：  
-![20](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/a913d01ad9daa095369a0585ae8d7e87&showdoc=.jpg "20")
+![20](../图片/富集云商城用户手册/用户/20.png)
 3.点击【提交认证】后，将进入人工审核流程，平台管理员将在24小时内审核用户资料，审核通过后即用户实名认证完成。  
-![21](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/9d37f1011010524cfd22ce04b6ca0ce7&showdoc=.jpg "21")
+![21](../图片/富集云商城用户手册/用户/21.png)
 4.用户实名认证完成后，在用户信息页面姓名栏位显示的是个人认证时填写的真实姓名，如下图所示：  
-![22](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/514acef18d6326b73db129a8275a0ae3&showdoc=.jpg "22")
+![22](../图片/富集云商城用户手册/用户/22.png)
 
 ### 资料修改
 #### 更换头像
 **更换头像操作流程：**  
 1.在用户信息页面，点击【更换头像】,如下图所示:  
-![23](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/93634b2f444b793130b769bf3eea410f&showdoc=.jpg "23")
+![23](../图片/富集云商城用户手册/用户/23.png)
 2.在更换图像页面，点击【上传头像】,如下图所示:  
-![24](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/dc20ae3bf0d0589b0bc1308d761ef380&showdoc=.jpg "24")
+![24](../图片/富集云商城用户手册/用户/24.png)
 3.可缩放图片，移动选定区域至需要的图像区域，点击【下一步】,如下图所示:  
-![25](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/4b653d2d44581236a0bdac43957441f0&showdoc=.jpg "25")
+![25](../图片/富集云商城用户手册/用户/25.png)
 4.点击【确认】,如下图所示:  
-![26](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/582bf3b4c58b2c17e1cc44756007c3e4&showdoc=.jpg "26")
+![26](../图片/富集云商城用户手册/用户/26.png)
 5.图像更换完成,如下图所示:  
-![27](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/c49d6bfcad596065bea73000a697f37a&showdoc=.jpg "27")
+![27](../图片/富集云商城用户手册/用户/27.png)
 
 #### 修改手机号码
 **修改手机号操作流程：
 手机验证**  
 1.在用户信息页面，点击手机号码后面的【修改】，如下图所示：  
-![28](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/35aa5ce08d5d584619cbd07f67e1d949&showdoc=.jpg "28")
+![28](../图片/富集云商城用户手册/用户/28.png)
 2.进入修改手机号页面，身份验证，滑动验证，再点击【获取验证码】，输入富集云商城下发到用户手机号码的验证码，再点击【下一步】。如下图所示：  
-![29](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8360c245a7eb314946e8b62e13cec8c6&showdoc=.jpg "29")
+![29](../图片/富集云商城用户手册/用户/29.png)
 3.绑定电话，用户输入有效的新手机号，再点击【获取验证码】，输入富集云商城下发到用户手机号码的验证码，再点击【下一步】。如下图所示：  
-![30](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/363849115a649f28d0a0bcb500d82275&showdoc=.jpg "30")
+![30](../图片/富集云商城用户手册/用户/30.png)
 4.修改手机号码成功，如下图所示：  
-![31](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/fec4b0c06a2a843901af875c83748767&showdoc=.jpg "31")
+![31](../图片/富集云商城用户手册/用户/31.png)
 
 #### 绑定邮箱
 **绑定邮箱操作流程：**  
