@@ -342,11 +342,11 @@ a，需要查看完整是Scretkey【 ![72](http://10.129.5.20:4999/server/index.
 ## 产品管理
 ### 新增产品
 1.服务商登录平台，进入服务商管理页面点击左侧菜单栏【产品管理】，如下图所示：  
-![11](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/1d0d030ece35feb44a0f3bf13cbca483&showdoc=.jpg "11")
+![11](../图片/富集云商城用户手册/服务商/11.png)
 2.进入产品管理页面，点击左边列表内的【新建】，如下图所示：  
-![12](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/85ed0835adbee12d888a6f82c75773c3&showdoc=.jpg "12")
+![12](../图片/富集云商城用户手册/服务商/12.png)
 3.进入添加产品页面，编辑产品信息，填写需要上架的产品信息，再点击【保存并下一步】如下图所示：  
-![13-1](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/53bddf93b1dfaa94c2bfd41a42fc3de7&showdoc=.jpg "13-1")![13-2](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/60bae4ea85c0755a2095d122583dcee9&showdoc=.jpg "13-2")![13-3](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/f8bd5a6726e456de422151cb58f73c34&showdoc=.jpg "13-3")
+![13-1](../图片/富集云商城用户手册/服务商/13-1.png)![13-2](../图片/富集云商城用户手册/服务商/13-2.png)![13-3](../图片/富集云商城用户手册/服务商/13-3.png)
 
 4.参数描述：  
 a)名称：应用的名称。  
@@ -358,73 +358,73 @@ f)产品图片: 此图片用于产品的展示
 g)使用指南: 上架商品的使用文档等  
 h)产品介绍：产品介绍中包含产品介绍、产品功能。应用场景、其他介绍四部分、服务商可以文字说明及上传图片来介绍产品。  
 5. 进入添加产品规格页面，填写规格名称、价格（可选择具体价格或面议），产品描述，点击保【保存】如下图所示： 
-![14](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/f0869cf5b952df494d57fc40a252e858&showdoc=.jpg "14")
+![14](../图片/富集云商城用户手册/服务商/14.png)
 6.保存后即可看到添加的产品规格，如下图所示：  
-![15](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/13aa5b4937da01d40269d2c7a1051243&showdoc=.jpg "15")
+![15](../图片/富集云商城用户手册/服务商/15.png)
 7.如需继续添加产品规格，可点击右上角【新建】，如下图所示：  
-![16](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/79735d08771db3161571679da24cc852&showdoc=.jpg "16")
+![16](../图片/富集云商城用户手册/服务商/16.png)
 8.填写产品规格，点击【保存】，如下图所示：  
-![17](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/987af065cb67f3fc8b5a7dea2e7cab07&showdoc=.jpg "17")
+![17](../图片/富集云商城用户手册/服务商/17.png)
 9.即可看到新添加的产品规格，如下图所示：  
-![18](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e2d626a0c02833a7b23b83907ac81992&showdoc=.jpg "18")
+![18](../图片/富集云商城用户手册/服务商/18.png)
 10.点击规格操作列的【编辑】、【移动】和【删除】可对版本进行修改、移动和删除操作，如下图所示：  
-![18](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/eb8969affddcb274f4c68d7108501996&showdoc=.jpg "19")
+![18](../图片/富集云商城用户手册/服务商/19.png)
 11. 再次点击【产品管理】，进入产品管理页面，即可看到添加的产品信息，如下图所示：  
-![19](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/74a68e76be7049b56b3974e2014ce361&showdoc=.jpg "20")
+![19](../图片/富集云商城用户手册/服务商/20.png)
 **产品信息修改：**  
 1.选择一个产品，点击操作列的【编辑】，如下图所示：  
-![20](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/1c6c408855f4d979ec4f806ee37690e8&showdoc=.jpg "21")
+![20](../图片/富集云商城用户手册/服务商/21.png)
 2.页面跳转到编辑产品页面，可对产品信息进行修改操作，如下图所示  
-![22-1](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/5bb4f180e0214ab800a2c986bcd9b03e&showdoc=.jpg "22-1")![22-2](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e0ae75b692eaccba5eca3e5a46ea9651&showdoc=.jpg "22-2")![22-3](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/c6eb421c6aedfb70c57293866d6e1091&showdoc=.jpg "22-3")
+![22-1](../图片/富集云商城用户手册/服务商/22-1.png)![22-2](../图片/富集云商城用户手册/服务商/22-2.png)![22-3](../图片/富集云商城用户手册/服务商/22-3.png)
 3.修改完之后，点击【保存】即可完成产品的修改。  
 **产品预览：**  
 1.点击操作列的【预览】，如下图所示：  
-![23](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/323831b6c28887e3a3e01bf53eea0361&showdoc=.jpg "23")
+![23](../图片/富集云商城用户手册/服务商/23.png)
 2.打开一个新的页面，展示该产品的上架后的信息，服务商可检查新增产品的信息，如下图所示：  
-![24](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8d9199b96760c0ccf66d603db00f40ea&showdoc=.jpg "24")
+![24](../图片/富集云商城用户手册/服务商/24.png)
 3.确认产品信息无误后，即新建产品完成可进行该产品上架流程。  
 ### 产品上架
 **提交审核**  
 1.选择一个需要上架的产品，点击操作列的【提交】，如下图所示：  
-![25](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/f1bc5d0d5ea62e79651256d4fe66c8ef&showdoc=.jpg "25")
+![25](../图片/富集云商城用户手册/服务商/25.png)
 2.即提交成功，如下图所示：  
-![26](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/ccb7790a793c76784bce2b3a44a64b88&showdoc=.jpg "26")
+![26](../图片/富集云商城用户手册/服务商/26.png)
 3.页面返回产品管理页面，此时的产品状态变为待审核，操作列只有【预览】和【撤回】可点击，如下图所示：  
-![27](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/f9ae5df4d5b46284b4ecf3745a7579c2&showdoc=.jpg "27")
+![27](../图片/富集云商城用户手册/服务商/27.png)
 4.平台管理员审核通过之后，状态变为已通过，如下图所示：  
-![28](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/b6ed46ff269394a71113420a7d96a5c4&showdoc=.jpg "28")
+![28](../图片/富集云商城用户手册/服务商/28.png)
 5.产品上架之后，在应用商城可查看到该产品，如下图所示：  
-![29](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/e19c20647257de16b5627473369aaf99&showdoc=.jpg "29")
+![29](../图片/富集云商城用户手册/服务商/29.png)
 ### 产品下架
 产品只有上架（提交）成功之后，操作列才有下架操作。  
 **产品下架步骤：**  
 1.选择一个需要下架的产品，点击操作列的【下架】，在系统弹出的对话框内点击【确定】，如下图所示:  
-![30](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/533b85c9efc7b9448c3eb39b78eeb1d1&showdoc=.jpg "30")
+![30](../图片/富集云商城用户手册/服务商/30.png)
 2.点击确定之后，产品下架成功，此时产品状态变为未提交，如下图所示：  
-![31](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/d24acfd6212d9228dd815f8c14d001b0&showdoc=.jpg "31")
+![31](../图片/富集云商城用户手册/服务商/31.png)
 
 ### 产品变更
 已上架的产品服务商如需要变更产品信息，需先下架产品，才可进行产品信息变更。流程可参考“产品下架”    
 1.产品下架后，服务商可点击操作列的【编辑、规格、提交、下架、删除】等功能，对产品信息进行变更，如下图所示：    
-![32](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/90908416fc6a414d23681768f680fe9a&showdoc=.jpg "32")
+![32](../图片/富集云商城用户手册/服务商/32.png)
 2. 产品信息变更后需重新提交审核，重复产品上架步骤即可完成产品信息变更后的上架。    
 
 ### 产品删除
 **产品删除步骤：**  
 1.选择一个产品，点击操作列的【删除】，如下图所示：  
-![33](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/a2fc936cee851393372982d29e0b2025&showdoc=.jpg "33")
+![33](../图片/富集云商城用户手册/服务商/33.png)
 2.弹出提示框确认是否要删除产品，点击【确认】，产品删除成功，如下图所示：  
-![34](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/8754377fabdeb3f7a75bbba541161a86&showdoc=.jpg "34")
+![34](../图片/富集云商城用户手册/服务商/34.png)
 
 ## 订单管理
 ### 订单查询
 1.任何用户购买服务商上架的产品，在订单列表中都会产生一条订单。服务商点击订单管理进入订单管理页面，在搜索框中输入订单号或用户名筛选订单信息，如下图所示：  
-![35](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/cf23d589add5bdbf8b503dfd05380cd2&showdoc=.jpg "35")
+![35](../图片/富集云商城用户手册/服务商/35.png)
 2.交付订单，管理员审核完用户支付凭证后，该订单需要服务商交付，服务商点击操作列【去交付】，如下图所示：  
-![36](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/d04ca720a5637b8eb27d471e4ea2818f&showdoc=.jpg "36")
+![36](../图片/富集云商城用户手册/服务商/36.png)
 3.点击【确认】，客户验收完成后即该订单正式完成，如下图所示：  
-![37](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/92e57c9aaf7484280b62fe83761f518d&showdoc=.jpg "37")
+![37](../图片/富集云商城用户手册/服务商/37.png)
 ### 订单详情
 1.服务商进入订单管理列表页面，选择一个订单，点击操作列的详情，进入订单详情页。在订单详情页面可看到订单状态、订单号、付款时间，客户信息和购买信息，如下图所示：  
-![38](http://10.129.5.20:4999/server/index.php?s=/api/attachment/visitFile/sign/b869d58086303c79c6b2d4da77b37094&showdoc=.jpg "38")
+![38](../图片/富集云商城用户手册/服务商/38.png)
 
