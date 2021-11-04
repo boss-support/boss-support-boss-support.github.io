@@ -1,1 +1,1 @@
-[用户手册](READE.md)
+[用户手册](README.md )
