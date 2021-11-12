@@ -1,4 +1,5 @@
-# <center>富士康工业互联网富集云系统项目</center>
+<center>富士康工业互联网富集云系统项目</center>
+===
 
 <center>V0.0.10 20211026</center>  
 <center>富集云商城用户手册</center>  
